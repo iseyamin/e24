@@ -16,6 +16,6 @@ document.getElementById('btn').addEventListener('click',
 //main section
 document.getElementById('btn-yes').addEventListener('click',
     function(event){
-        // window.location.href="./nov.html"
+         window.location.href="./nov.html"
     }
 )
